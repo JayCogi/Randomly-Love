@@ -1,0 +1,770 @@
+﻿:: Start
+
+<<trace "Beginnigin">> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace>> <<trace "Name">>.
+
+
+:: StoryIncludes
+https://cdn.rawgit.com/mrfb/twinecery/master/twinecery.txt
+
+
+:: StoryInit
+<<traceryInit>>
+
+
+:: StorySettings
+jquery:on
+hash:off
+bookmark:on
+modernizr:off
+undo:on
+obfuscate:off
+exitprompt:off
+blankcss:off
+
+
+
+:: beginnings [grammar]
+<<$They>> first met <<$object>> #inaplace#.
+<<$object>> and <<$them>> first met #inaplace#.
+The first time <<$they>> ever saw <<$object>>, they were, unusually for both of them, #inaplace#.
+It all started #inaplace#, where <<$they>> first met <<$object>>.
+<<$They>> first met <<$object>> #inaplace##atatime#.
+<<$object>> and <<$them>> first met #inaplace##atatime#.
+The first time <<$they>> ever saw <<$object>>, they were, unusually for both of them, #inaplace##atatime#.
+It all started #inaplace#, where <<$they>> first met <<$object>>#atatime#.
+
+
+:: inaplace [grammar]
+in church
+in school
+under water
+on the International Space Station
+on the moon
+in the desert
+in a forest
+in a park
+in a bar
+in Italy
+at a crime scene
+in a supermarket
+in a bodega
+on a causeway
+on a small island
+on a mountaintop
+on twitter
+on facebook
+on okcupid
+on a stupid, stupid dating app whose name <<$they>> won't mention
+in a café
+in a strip club
+off the grid
+in a survival shelter
+in <<$their>> bedroom when <<$object>> broke into it
+in the sauna
+in a nice little restaurant
+out hiking
+in the woods
+in a castle
+in a museum
+in mosque
+at the temple
+in synagogue
+online
+
+
+
+:: herogender [grammar]
+male
+female
+agender
+
+
+:: atatime [grammar]
+ in #month#
+ in #season#
+, dancing
+, at an inconvenient time for both of them
+, celebrating the downfall of #system#
+ in the evening
+ at night
+ in the early morning
+ in the small hours
+ at midnight
+ at noon
+ in the afternoon
+ on <<$their>> birthday
+ in 1999
+ in 2013
+ in late #month#
+ in late #season#
+ in early #month#
+ in early #season#
+ in the middle of #month#
+ in the middle of #season#
+
+
+:: StoryTitle
+Randomly, Love
+
+
+:: Beginnigin [grammar]
+<<set $hero to trace("Name")>><<set $object to trace ("nametwo")>><<set $herogender to trace ("herogender")>><<if $herogender is "male">><<set $they = "he";$their = "his";$them = "him";$theirs = "his";$They = "He";$Their = "His";$Them = "Him";$Theirs = "His">><<endif>><<if $herogender is "female">><<set $they = "she";$their = "her";$them = "her";$theirs = "hers";$They = "She";$Their = "Her";$Them = "Her";$Theirs = "Hers">><<endif>><<if $herogender is "agender">><<set $they = "they";$their = "their";$them = "them";$theirs = "theirs";$They = "They";$Their = "Their";$Them = "Them";$Theirs = "Theirs">><<endif>><<$hero>> #wasinlovewith# <<$object>>. #beginnings# #herotastes# #objectfactoid# #moment# #relationtomoment# #lovedescription# #fail#
+
+
+:: origin [grammar]
+<<set $hero to trace("Name")>><<set $object to trace ("nametwo")>><<set $herogender to trace ("herogender")>><<if $herogender is "male">><<set $they = "he";$their = "his";$them = "him";$theirs = "his";$They = "He";$Their = "His";$Them = "Him";$Theirs = "His">><<endif>><<if $herogender is "female">><<set $they = "she";$their = "her";$them = "her";$theirs = "hers";$They = "She";$Their = "Her";$Them = "Her";$Theirs = "Hers">><<endif>><<if $herogender is "agender">><<set $they = "they";$their = "their";$them = "them";$theirs = "theirs";$They = "They";$Their = "Their";$Them = "Them";$Theirs = "Theirs">><<endif>>#story#
+
+
+:: wasinlovewith [grammar]
+was in love with
+had a crush on
+only had eyes for
+loved
+adored
+had an obsession with
+was obsessed with
+cared for nobody but
+#adverb# admired
+venerated
+had succumbed to the charms of
+fell for
+could think of nothing but
+spent <<$their>> days dreaming of
+couldn't forget
+never quite got over
+never got over
+
+
+:: adverb [grammar]
+ardently
+longingly
+desperately
+chastely
+adoringly
+hopelessly
+solely
+only
+only ever
+admiringly
+
+
+
+
+:: herotastes [grammar]
+<<$They>> had always liked #descriptor#. #relationtotaste# 
+<<$They>> had really come to like #descriptor#. #relationtotaste# 
+<<$They>> had a thing for #descriptor#. #relationtotaste# 
+
+
+
+:: descriptor [grammar]
+#adjective# #typesofperson#
+#adjective#, #adjective# #typesofperson#
+#adjective# #typesofperson# and #typesofperson#
+
+
+:: month [grammar]
+january
+february
+march
+april
+may
+june
+july
+august
+september
+november
+december
+the month of intuition
+the month of culpability
+
+
+:: story [grammar]
+<<$object>>. <br>#beginnings# #herotastes#<br>#moment# #fail#
+<<$object>>. <br>#beginnings# #herotastes# #objectfactoid# #moment# #objectfactoid# #fail#
+<<$object>>. <br>#beginnings# #objectfactoid# #fail#
+<<$object>>. <br>#beginnings# #objectfactoid# #moment#<br>#fail#
+<<$object>>. <br>#beginnings# #objectfactoid# #moment#<br>#herotastes# #fail#
+<<$object>>. <br>#beginnings# #herotastes#<br>#moment# #fail#
+<<$object>>. <br>#objectfactoid# #beginnings# #herotastes# #moment# #fail#
+<<$object>>. <br>#objectfactoid# #beginnings# #fail#
+<<$object>>. <br>#objectfactoid# #beginnings# #moment#<br>#fail#
+<<$object>>. <br>#objectfactoid# #beginnings# #moment#<br>#herotastes# #fail#
+<<$object>>. <br>#beginnings# #fail#
+<<$object>>. <br>#objectfactoid# #beginnings# #fail#
+<<$object>>. <br>#beginnings# #objectfactoid# #herotastes#<br>#fail#
+<<$object>>. <br>#beginnings# #objectfactoid# #herotastes#<br>#moment# #fail#
+<<$object>>. <br>#beginnings# #herotastes#<br>#moment# #lovedescription# #fail#
+<<$object>>. <br>#beginnings# #objectfactoid# #herotastes# #moment# <br>#lovedescription# #fail#
+<<$object>>. <br>#beginnings# #objectfactoid#<br>#lovedescription# #fail#
+<<$object>>. <br>#beginnings# #moment#<br>#objectfactoid# #lovedescription# #fail#
+<<$object>>. <br>#beginnings# #moment# #herotastes# #objectfactoid# #lovedescription# #fail#
+<<$object>>. <br>#beginnings# #lovedescription# #fail#
+<<$object>>. <br>#beginnings# #herotastes#<br>#objectfactoid# #lovedescription# #fail#
+<<$object>>. <br>#beginnings# #herotastes# #objectfactoid# #moment# #lovedescription# #fail#
+<<$object>>. <br>#beginnings# #lovedescription# #objectfactoid# #fail#
+<<$object>>. <br>#beginnings# #lovedescription# #moment#<br>#objectfactoid# #fail#
+<<$object>>. <br>#beginnings# #lovedescription# #moment#<br>#herotastes# #objectfactoid# #fail#
+<<$object>>. <br>#beginnings# #lovedescription# #fail#
+<<$object>>. <br>#beginnings# #lovedescription# #herotastes#<br>#objectfactoid# #fail#
+<<$object>>. <br>#beginnings# #herotastes#<br>#objectfactoid# #moment# #relationtomoment# #fail#
+<<$object>>. <br>#beginnings# #lovedescription#<br>#moment# #relationtomoment#<br>#objectfactoid# #fail#
+<<$object>>. <br>#beginnings# #lovedescription#<br>#moment# #relationtomoment# #herotastes# #objectfactoid# #fail#
+<<$object>>. <br>#beginnings# #moment# #relationtomoment# #herotastes# #objectfactoid# #lovedescription# #fail#
+
+
+:: adjective [grammar]
+tall
+short
+smooth
+dark
+bright
+intelligent
+well-meaning
+stocky
+heavy-set
+slender
+hardcore
+punk
+small-ish
+lively
+brooding
+disconcerting
+introverted
+outgoing
+inventive
+straightforward
+experienced
+enthusiastic
+unsettling
+respected
+authoritative
+twisted
+cruel
+nice
+tender
+loving
+athletic
+soft
+well-built
+well-read
+well-educated
+rough
+tough
+soft-spoken
+unassuming
+world-weary
+sarcastic
+witty
+
+
+:: typesofperson [grammar]
+types
+people
+personalities
+people who grew up #inaplace#
+badasses
+saviour types
+brooders
+emos
+jocks
+nerds
+femmes
+mascs
+upstanding citizens
+entertainers
+leaders
+believers
+
+
+:: season [grammar]
+spring
+autumn
+summer
+fall
+winter
+monsoon season
+volcano season
+the season of tears
+mild season
+light season
+dark season
+
+
+:: StoryAuthor
+Jay
+
+
+:: Name [grammar]
+Chelsea
+Diego
+Idalia
+Josette
+Heather
+Kelle
+Emory
+Vada
+Jeane
+Claudine
+Keli
+Lavonne
+Violeta
+Adolph
+Marth
+Garfield
+Marlen
+Miesha
+Josephine
+Hwa
+Camille
+Min
+Alane
+Mohamed
+Sunday
+Germaine
+Violette
+Nathanael
+Tammie
+Ruthe
+Glory
+Hilary
+Nicolette
+Angelica
+Cary
+Dustin
+Tommye
+Jeannine
+Dorotha
+Eldon
+Jessia
+Karma
+Cindi
+Lera
+Monika
+Celine
+Deborah
+Rea
+Siu
+Annetta
+Tasia
+Gertrude
+Twanna
+Russel
+Tomi
+Charlena
+Kym
+Iraida
+Dalila
+Wava
+Karima
+Dana
+Chet
+Takako
+Preston
+Sina
+Shalonda
+Zachary
+Daina
+Lucila
+Shemeka
+Zola
+Staci
+Wayne
+Joy
+Duncan
+Kathy
+Pearle
+Winston
+Sudie
+Chasity
+Lizzette
+Olimpia
+Gilberto
+Tilda
+Darline
+Karrie
+Madaline
+Janyce
+Karol
+Yuette
+Carl
+Kirby
+Cheyenne
+Carlo
+Ramonita
+Shari
+Tammera
+Jenni
+Jaye
+Alene
+Cristobal
+Lashawna
+Rae
+Chelsie
+Deirdre
+Deann
+Tiffani
+Alicia
+Riva
+Pamila
+Elana
+Cammie
+Shirlee
+Rocky
+Quentin
+Lea
+Cathleen
+Kristal
+Glendora
+Hildegard
+Evonne
+Noella
+Kena
+Carmina
+Craig
+Essie
+Toshiko
+Cleveland
+Angelyn
+Page
+Abbey
+Deane
+Audrey
+Stanford
+Rickie
+Kristina
+Brigid
+Eun
+Kymberly
+Don
+Matha
+Rivka
+Ione
+Cheryle
+Arnita
+Kristeen
+Dylan
+Marcellus
+Arielle
+Man
+Allan
+Carl
+Reinaldo
+Tim
+Mel
+David
+Jan
+Maurice
+Stephen
+Rosendo
+Wade
+Cortez
+Darrell
+Franklin
+Benito
+Granville
+Moses
+Hugo
+Elton
+Josh
+Jonah
+Leo
+Benjamin
+Andrea
+Ronnie
+Chance
+Greg
+Lupe
+Jamaal
+Timmy
+Stefan
+Clemente
+Jed
+Justin
+Terrance
+Sergio
+Lanny
+Sal
+Douglas
+Alfred
+Elvin
+Odell
+Theo
+Wilburn
+Aaron
+Fritz
+Rolland
+Sung
+Wendell
+Tonie
+Hiroko
+Lindsey
+Alicia
+Trey
+Ethyl
+Neoma
+Darron
+Teresita
+Dominga
+Karlyn
+Katerine
+Mohamed
+Susanna
+Tambra
+Lourdes
+Josette
+Janina
+Chasity
+Aline
+Coleen
+Roxanna
+Verlie
+Maxine
+Moon
+Jim
+Cordia
+Geneva
+Jacqualine
+Lissette
+Sharolyn
+Janiece
+Desiree
+Chantelle
+Adriana
+Reginia
+Audria
+Cami
+Jacalyn
+Rosalina
+Garland
+Elijah
+Merna
+Tanna
+Melva
+Melisa
+Sophie
+Pearline
+Jesse
+Jeanelle
+Luann
+Terrence
+Catina
+Colleen
+Delorse
+Brianna
+Cameron
+Traci
+Viola
+Bennett
+Vonnie
+Donna
+Suellen
+Angila
+Lucio
+Trinh
+Lashawn
+Linsey
+Shelli
+Major
+
+
+:: nametwo [grammar]
+Chelsea
+Diego
+Idalia
+Josette
+Heather
+Kelle
+Emory
+Vada
+Jeane
+Claudine
+Keli
+Lavonne
+Violeta
+Adolph
+Marth
+Garfield
+Marlen
+Miesha
+Josephine
+Hwa
+Camille
+Min
+Alane
+Mohamed
+Sunday
+Germaine
+Violette
+Nathanael
+Tammie
+Ruthe
+Glory
+Hilary
+Nicolette
+Angelica
+Cary
+Dustin
+Tommye
+Jeannine
+Dorotha
+Eldon
+Jessia
+Karma
+Cindi
+Lera
+Monika
+Celine
+Deborah
+Rea
+Siu
+Annetta
+
+
+:: relationtotaste [grammar]
+In that regard, <<$object>> exceeded <<$their>> expectations by far.
+In that regard, <<$object>> was everything <<$they>> could have hoped for and more.
+<<$object>> wasn't like that at all, but <<$they>> #wasinlovewith# <<$object>> anyway.
+<<$object>> met that description perfectly.
+<<$object>> was very different, and yet so intriguing.
+And that was exactly what <<$object>> was.
+<<$object>> was that and so much more.
+<<$object>> was the sole, but very powerful exception to the rule.
+<<$object>> was basically that in its most alluring form.
+How then could <<$object>> be so attractive to <<$them>>? <<$object>> was the polar opposite! And yet, there was something about <<$object>>...
+
+
+:: magical [grammar]
+magical
+lovely
+outstanding
+remarkable
+enchanted
+
+
+
+:: system [grammar]
+capitalism
+a cruel tyrant
+the oppressor
+the system
+the old world order
+a failed social experiment
+their boss
+
+
+:: undying [grammar]
+undying
+eternal
+unbroken
+borderless
+endless
+
+
+:: objectfactoid [grammar]
+<<$object>> was one of those #adjective# #typesofperson# that really got under <<$their>> skin.
+<<$object>> was #adjective#.
+<<$object>> was so #adjective#, it was mindblowing.
+<<$object>> was born #inaplace#.
+<<$object>>'s hair was #haircolour#.
+<<$object>>'s eyes were #eyecolour#.
+<<$object>> had #haircolour# hair.
+<<$object>> had #eyecolour# eyes.
+<<$object>> was born #inaplace# and had #haircolour# hair.
+<<$object>> had #haircolour# hair and #eyecolour# eyes.
+
+
+:: lovedescription [grammar]
+<<$Their>> love for <<$object>> was #undying#.
+<<$They>> loved <<$object>> for years and years.
+
+
+:: fail [grammar]
+But the two of them never got together because <<$object>> #wasinlovewith#
+But <<$they>> never got with <<$object>> because <<$object>> #wasinlovewith#
+But <<$they>> and <<$object>> never got together because <<$object>> #wasinlovewith#
+But the two of them never got together because <<$object>> already #wasinlovewith#
+But <<$they>> never got with <<$object>> because <<$object>> already #wasinlovewith#
+But the two of them never became a couple because <<$object>> #wasinlovewith#
+But <<$they>> never got together with <<$object>> because <<$object>> #wasinlovewith#
+But the two of them never even held hands because <<$object>> #wasinlovewith#
+But <<$they>> never got very far with <<$object>> because <<$object>> #wasinlovewith#
+But <<$they>> never so much as kissed <<$object>> once because <<$object>> #wasinlovewith#
+But nothing ever became of it because <<$object>> #wasinlovewith#
+But <<$their>> hopes of one day marrying <<$object>> were shattered as <<$object>> #wasinlovewith#
+But <<$they>> never went on a single date with <<$object>> because <<$object>> already #wasinlovewith#
+
+
+:: moment [grammar]
+The two of them spent some #magical# #amountoftime# together.
+The two of them spent some #magical# #amountoftime# together #inaplace#.
+<<$They>> spent some #magical# #amountoftime# with <<$object>>.
+<<$They>> spent some #magical# #amountoftime# with <<$object>> #inaplace#.
+<<$They>> spent some #magical# #amountoftime# with <<$object>>#atatime#.
+<<$They>> spent some #magical# #amountoftime# with <<$object>> #inaplace##atatime#.
+The two of them spent a #magical# #month# together.
+The two of them spent a #magical# #season# together.
+<<$They>> spent a #magical# #month# with <<$object>>.
+<<$They>> spent a #magical# #season# with <<$object>>.
+<<$They>> spent a #magical# #season# with <<$object>> #inaplace#.
+
+
+:: amountoftime [grammar]
+weeks
+months
+moments
+hours
+days
+nights
+
+
+:: eyecolour [grammar]
+dark
+black
+chestnut-coloured
+brown
+greenish brown
+warm brown
+dark and warm
+dark brown
+light brown
+hazel
+grey
+blue
+shiny
+light
+green
+golden
+
+
+:: haircolour [grammar]
+dark
+black
+glossy
+kinky
+big
+long
+short
+natural
+curly
+wavy
+brown
+chestnut-coloured
+sandy
+blond
+light
+white
+grey
+straight
+stylish
+messy
+
+
+:: relationtomoment [grammar]
+<<$They>> never forgot that time.
+They stayed imprinted into <<$their>> memory.
+<<$They>> considered <<$their>> #amountoftime# with <<$object>> the most blessed of their life.
+<<$They>> often dwelled on the memory of that time.
+They were the happiest of <<$their>> life.
+
+
